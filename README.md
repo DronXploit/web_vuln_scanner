@@ -1,7 +1,7 @@
 # 🔍 Web Vulnerability Scanner - dronXPloit Edition
 
 ![Banner Preview](https://i.imgur.com/JQ7Gh3p.png)  
-*"Powerful pentesting tool with cinematic visuals"*
+*"Powerful pentesting tool FOR LEGAL PURPOSE ONLY"*
 
 ## 🌟 Features
 ```python
@@ -45,7 +45,7 @@ python quick_test.py
 ║ LFI        ║ VULNERABLE ⚠️                   ║
 ╚════════════╩══════════════════════════════════╝
 
-## ![Hasil Detil](./images/result-details.jpg)
+## ![Hasil Detil](./images/SS(1), (2), (3))
 
 
 📋 Test Cases
