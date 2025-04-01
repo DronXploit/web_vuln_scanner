@@ -23,6 +23,9 @@ python -m venv venv
 source venv/bin/activate  # Linux/Mac
 # venv\Scripts\activate   # Windows
 
+# Perbarui pip dan setuptools
+pip install --upgrade pip setuptools
+
 # Install dependencies
 pip install -r requirements.txt
 
