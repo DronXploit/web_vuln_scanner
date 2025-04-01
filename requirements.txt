@@ -1,0 +1,5 @@
+requests==2.31.0
+beautifulsoup4==4.12.2
+argparse==1.4.0
+colorama==0.4.6
+pyfiglet==0.8.post1
