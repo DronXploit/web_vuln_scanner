@@ -1,4 +1,4 @@
-# 🔍 Web Vulnerability Scanner - dronXPloit Edition
+# 🔍 Web Vulnerability Scanner - dronXploit Edition
 
 ![Banner Preview](https://i.imgur.com/JQ7Gh3p.png)  
 *"Powerful pentesting tool FOR LEGAL PURPOSE ONLY"*
